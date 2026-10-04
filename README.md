@@ -7,3 +7,5 @@ This portfolio brings together projects that reflect my interest in data analysi
 Each project demonstrates a different way of working with data, from cleaning and visualizing information to applying statistical methods and interpreting results. Together, they reflect my belief that data analysis is not just about finding patterns, but also about asking meaningful questions, recognizing context, and communicating findings clearly.
 
 Please explore the projects in my repositories. Each one provides an opportunity to learn more about my analytical process, the questions I investigate, and how I connect technical concepts with real world issues. As I continue developing my skills in Information Science and analytics, I hope to use what I learn to make information more accessible, support informed decisions, and contribute to work that makes a meaningful difference.
+
+You can access my resume using this [link.](https://docs.google.com/document/d/11DMI5DOJum3FLKfs-Yrvx8bVrdAM5Tb4pXa61Xulj3I/edit?usp=sharing)
